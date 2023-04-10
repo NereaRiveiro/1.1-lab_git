@@ -1,1 +1,1 @@
-Nerea = 10
+Nerea = 20
